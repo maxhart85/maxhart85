@@ -25,8 +25,6 @@
     PS C:\> .\STIG-ID-WN10-AU-000500.ps1 
 #>
 
-# YOUR CODE GOES HERE
-
 # Run in an elevated PowerShell
 $path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application'
 
