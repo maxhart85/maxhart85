@@ -19,8 +19,8 @@
     Systems Tested  : 
     PowerShell Ver. : 
 
-
-#># WN10-AC-000010: Account lockout threshold should be 3 or less (not 0)
+#>
+# WN10-AC-000010: Account lockout threshold should be 3 or less (not 0)
 # Run as Administrator
 
 # Step 1: Check current lockout threshold
