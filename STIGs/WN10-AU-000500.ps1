@@ -24,7 +24,6 @@
     Example syntax:
     PS C:\> .\STIG-ID-WN10-AU-000500.ps1 
 #>
-
 # Run in an elevated PowerShell
 $path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application'
 
