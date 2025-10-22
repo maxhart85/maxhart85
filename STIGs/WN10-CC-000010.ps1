@@ -18,6 +18,7 @@
     Tested By       : 
     Systems Tested  : 
     PowerShell Ver. : 
+#>
     
 # WN10-CC-000010: Prevent enabling lock screen slide show = Enabled
 # Run as Administrator
